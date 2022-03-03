@@ -1,0 +1,55 @@
+name: bloc_news
+description: A new Flutter project.
+
+publish_to: "none" 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  cupertino_icons: ^1.0.4
+  equatable: ^2.0.3
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.0.0
+  flutter_web_browser: ^0.16.0
+  http: ^0.13.4
+
+dev_dependencies:
+  flutter_lints: ^1.0.4
+  flutter_test:
+    sdk: flutter
+
+  flutter_native_splash: ^1.3.2
+
+flutter_native_splash:
+  color: "#585858"
+  image: assets/images/spaceX.png
+  android: true
+  ios: true
+
+flutter:
+
+  uses-material-design: true
+  
+  assets:
+    - assets/
+
+  fonts:
+    - family: PantonBold
+      fonts:
+        - asset: assets/fonts/panton/Panton-BlackCaps.otf
+
+    - family: PantonBoldItalic
+      fonts:
+        - asset: assets/fonts/panton/Panton-BlackitalicCaps.otf
+
+    - family: Panton
+      fonts:
+        - asset: assets/fonts/panton/Panton-LightCaps.otf
+
+    - family: PantonItalic
+      fonts:
+        - asset: assets/fonts/panton/Panton-LightitalicCaps.otf

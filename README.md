@@ -6,11 +6,3 @@
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ISL270/SpaceX-FlutterApp">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/ISL270/SpaceX-FlutterApp">
 <img src="https://visitor-badge.glitch.me/badge?page_id=ISL270.SpaceX-FlutterApp&right_color=red&left_text=visitors" /></h3>
-
-## About
-
-
-## Screenshots
-| Home_Screen | Article_Screen |
-| :---: | :---: |
-|  |  |

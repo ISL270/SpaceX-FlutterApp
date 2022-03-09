@@ -6,3 +6,6 @@
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ISL270/SpaceX-FlutterApp">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/ISL270/SpaceX-FlutterApp">
 <img src="https://visitor-badge.glitch.me/badge?page_id=ISL270.SpaceX-FlutterApp&right_color=red&left_text=visitors" /></h3>
+
+## About
+This was a test assignment where I had to use the [**SpaceX-API**](https://github.com/r-spacex/SpaceX-API) and the [**BLoC Architecture**](https://bloclibrary.dev/#/architecture) & [**State management**](https://pub.dev/packages/bloc).
